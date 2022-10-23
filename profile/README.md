@@ -4,7 +4,6 @@ Ever wanted to build something but didn't know where to start? When we have a ra
 
 These are our light hearted fun projects, so all contributions are welcome, feel free to open issues and raise PRs!<br>
 You're also welcome to submit ideas for new projects by creating a new discussion in the "Ideas" section of the organziational level discussions!
-
 You can also join us on Discord at [![Discord](https://img.shields.io/discord/947260572041363497.svg?label=Let's+Build+A+...&logo=discord)](https://discord.gg/hC6R5CtEq7)
 
-_The profile image is picture of of a "Hello world program" in Piet, an esoteric programming language. Image courtesy of <a href="https://commons.wikimedia.org/wiki/File:Piet_Program_Hello_World.gif">Thomas Schoch</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons_
+_The profile image is picture of a "Hello world program" in Piet, an esoteric programming language. Image courtesy of <a href="https://commons.wikimedia.org/wiki/File:Piet_Program_Hello_World.gif">Thomas Schoch</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons_
